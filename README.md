@@ -3,7 +3,7 @@
 
 有问题的直接提issue，能回复的我都尽量回复
 
-
+**更新**：[有关专业分流](./Academics/Courses/Courses.md)
 
 ---
 
